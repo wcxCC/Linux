@@ -5,7 +5,7 @@
 int main()
 {
 char* argv[4];
-argv[0]="/home/renkean/git/linuxprogram.git/week9/code/pid/test";
+argv[0]="/home/wcx/test.git/week9/code/pid/test";
 argv[1]="HELLO";
 argv[2]="WORLD";
 argv[3]=NULL;
