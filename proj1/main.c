@@ -1,6 +1,5 @@
 #include "main.h"
 
-//renkean 2019/10/5
 int main(){
 
 	struct timeval begin,end;
